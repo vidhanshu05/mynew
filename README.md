@@ -1,7 +1,3 @@
 
 hello love
-"# mynew" 
-"# mynew" 
-"# mynew" 
-"# mynew" 
-"# mynew" 
+im here to update 
